@@ -38,7 +38,17 @@ class CausalityMention():
             data['effect'] = result[0][2]
         
         return data
-
+    
+    '''<effect> due to <cause>'''
+    def ruler4(self, sentence):
+        pattern = re.compile(r'(.*)\s(due to)\s(.*)')
+        result = pattern.findall(sentence)
+        data = dict()
+        if result:
+            data['cause'] = result[0][2]
+            data['effect'] = result[0][0]
+        
+        return data
 
     # default dependency parse
     def sentence_segmentation(self,content):
@@ -48,10 +58,6 @@ class CausalityMention():
 
         for sent in doc.sents:
             sentence.append(sent.text)
-
-        # with open("D:\\Desktop\\sent_news\\causality_connector\\segmented_sentence.txt", "w", encoding='utf-8') as output:
-        #     for row in sentence:
-        #         output.write(str(row))
 
         return sentence
 
@@ -64,6 +70,8 @@ class CausalityMention():
                 result = self.ruler2(sentence)
             elif self.ruler3(sentence):
                 result = self.ruler3(sentence)
+            elif self.ruler4(sentence):
+                result = self.ruler4(sentence)
             else: continue
 
             final_result.append(result)

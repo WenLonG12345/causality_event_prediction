@@ -13,9 +13,7 @@ def test():
     # content2 = "US-Australia relations took a hit in February after US President Donald Trump criticized Australian Prime Minister Malcolm Turnbull on the phone over a refugee resettlement agreement former US president Barack Obama had made between the two countries."
     # content3 = "After Trump took office, the US has conducted three such operations."
 
-    # f = open(r'D:\\Desktop\\sent_news\\causality_connector\\because.txt',encoding="utf8")
-    # f = open(r'D:\\Desktop\\sent_news\\causality_connector\\Cap_after.txt',encoding="utf8")
-    f = open(r'D:\\Desktop\\sent_news\\causality_connector\\segmented_sentence.txt',encoding="utf8")
+    f = open(r'D:\\Desktop\\sent_news\\causality_connector\\data\\selected_causality_news.txt',encoding="utf8")
     file = f.read()
 
     '''Causality Mention'''
@@ -23,28 +21,28 @@ def test():
     mention_datas = mention.extract_main(file)
     # mention_datas = mention.extract_main(content1)
 
-    # print(mention_datas)
+    df = pd.DataFrame(mention_datas)
+    df.to_csv("output\\MentionDatas.csv", sep='\t', encoding='utf-8')
 
     '''Causality Extraction'''
     extract = causality_extraction.CausalityExtraction()
     extract_datas = extract.verb_noun_extraction(mention_datas)
 
     df = pd.DataFrame(extract_datas)
-    df.to_csv("extracted_data.csv", sep='\t', encoding='utf-8')
+    df.to_csv("output\\VerbNounExtraction.csv", sep='\t', encoding='utf-8')
+
+
+test()
 
     # causal_network = causality_network.CausalityNetwork()
     # causal_network.network("extracted_data.csv")
 
-    ''''Causality Generalisation'''
-    generalise = causality_generalisation.CausalityGeneralisation()
-    generalise_datas = generalise.generalisation(extract_datas)
+    # ''''Causality Generalisation'''
+    # generalise = causality_generalisation.CausalityGeneralisation()
+    # generalise_datas = generalise.generalisation(extract_datas)
 
-    df = pd.DataFrame(generalise_datas)
-    df.to_csv("generalise_data.csv", sep='\t', encoding='utf-8')
+    # df = pd.DataFrame(generalise_datas)
+    # df.to_csv("generalise_data.csv", sep='\t', encoding='utf-8')
 
     # causal_network = CausalityNetwork()
     # causal_network.network("generalise_data.csv")
-
-
-
-test()

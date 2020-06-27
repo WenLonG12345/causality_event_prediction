@@ -1,6 +1,8 @@
 import causality_mention
 import causality_extraction
 import causality_generalisation
+import causal_embedding
+import keyphrase_extraction
 
 import spacy
 import json
@@ -22,14 +24,26 @@ def test():
     # mention_datas = mention.extract_main(content1)
 
     df = pd.DataFrame(mention_datas)
-    df.to_csv("output\\MentionDatas.csv", sep='\t', encoding='utf-8')
+    df.to_csv("output\\MentionDatas.csv", sep='\t', encoding='utf-8', index=False)
 
-    '''Causality Extraction'''
-    extract = causality_extraction.CausalityExtraction()
-    extract_datas = extract.verb_noun_extraction(mention_datas)
+
+    extract = keyphrase_extraction.KeywordExtraction()
+    extract_datas = extract.main(mention_datas)
 
     df = pd.DataFrame(extract_datas)
-    df.to_csv("output\\VerbNounExtraction.csv", sep='\t', encoding='utf-8')
+    df.to_csv("output\\KeyphraseExtraction.csv", sep='\t', encoding='utf-8', index=False)
+
+
+    # '''Causality Extraction'''
+    # extract = causality_extraction.CausalityExtraction()
+    # extract_datas = extract.verb_noun_extraction(mention_datas)
+
+    # df = pd.DataFrame(extract_datas)
+    # df.to_csv("output\\VerbNounExtraction.csv", sep='\t', encoding='utf-8', index=False)
+
+    # '''Embedding'''
+    # embedding = causal_embedding.Embedding()
+    # embedding_datas = embedding.main(extract_datas)
 
 
 test()

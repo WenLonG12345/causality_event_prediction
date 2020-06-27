@@ -1,0 +1,217 @@
+T1	Effect 27 55	called for a cabinet meeting
+T2	Cause 78 102	won the arbitration case
+R1	CauseEffect Arg1:T2 Arg2:T1	
+T3	Cause 261 287	massive island reclamation
+T4	Effect 159 182	South China Sea dispute
+R2	CauseEffect Arg1:T3 Arg2:T4	
+T5	Cause 438 485	international law has not been fully respected.
+T6	Effect 396 426	tension in the South China Sea
+R3	CauseEffect Arg1:T5 Arg2:T6	
+T7	Cause 638 652	security issue
+T8	Effect 543 578	affects four of the ASEAN countries
+R4	CauseEffect Arg1:T7 Arg2:T8	
+T9	Cause 805 851	lack of an international enforcement mechanism
+T10	Effect 693 723	Hague award is legally binding
+R5	CauseEffect Arg1:T9 Arg2:T10	
+T11	Cause 913 960	major countries expanding their defense budgets
+T12	Effect 856 905	Global security governance has suffered a setback
+R6	CauseEffect Arg1:T11 Arg2:T12	
+T13	Cause 1155 1180	China's growing influence
+T14	Effect 1196 1249	Japan has been ramping up its efforts to oppose China
+R7	CauseEffect Arg1:T13 Arg2:T14	
+T15	Cause 1375 1420	official coordinator of China-ASEAN relations
+T16	Effect 1307 1348	special significance to Chinese diplomacy
+R8	CauseEffect Arg1:T15 Arg2:T16	
+T19	Effect 1724 1746	indiscreet accusations
+T20	Cause 1779 1807	attempted to stir up tension
+R9	CauseEffect Arg1:T20 Arg2:T19	
+T17	Cause 1867 1911	expansionist greed for capital and resources
+T18	Effect 1845 1855	Wars occur
+R10	CauseEffect Arg1:T17 Arg2:T18	
+T21	Cause 2059 2095	throw China-US relations off balance
+T22	Effect 1922 1994	discard the strategy of stirring up confrontation in the South China Sea
+T23	Cause 14005 14030	China launched its reform
+T24	Effect 14075 14120	large numbers of foreign enterprises invested
+R11	CauseEffect Arg1:T23 Arg2:T24	
+T25	Cause 13787 13810	President Obama's visit
+T26	Effect 13874 13910	strengthened strategic communication
+T27	Cause 13655 13709	arbitration case unilaterally filed by the Philippines
+T28	Effect 13711 13746	exchanges in many areas were halted
+R12	CauseEffect Arg1:T27 Arg2:T28	
+R13	CauseEffect Arg1:T25 Arg2:T26	
+T29	Cause 13486 13541	Trump's challenge to the long-standing One China policy
+T30	Effect 13596 13624	criticized Trump's ignorance
+R14	CauseEffect Arg1:T29 Arg2:T30	
+T31	Cause 13310 13351	signing of the Korean Armistice Agreement
+T32	Effect 13357 13390	Korean Peninsula remained divided
+R15	CauseEffect Arg1:T31 Arg2:T32	
+T33	Cause 13219 13236	China-US friction
+T34	Effect 13252 13295	Cold War" featuring all-round confrontation
+R16	CauseEffect Arg1:T33 Arg2:T34	
+T35	Cause 13087 13121	China upholds the rule-based order
+T36	Effect 13170 13187	regional tensions
+R17	CauseEffect Arg1:T35 Arg2:T36	
+T37	Effect 13056 13077	tit-for-tat responses
+T38	Cause 13027 13047	Tokyo's provocations
+R18	CauseEffect Arg1:T38 Arg2:T37	
+T39	Effect 2233 2247	ISDS framework
+T40	Cause 2394 2408	stable nations
+R19	CauseEffect Arg1:T40 Arg2:T39	
+T41	Cause 1580 1612	freedom of navigation operations
+T42	Effect 1639 1662	check China's influence
+R20	CauseEffect Arg1:T41 Arg2:T42	
+T44	Cause 2545 2576	resolve their maritime disputes
+T43	Effect 2420 2497	freedom of navigation operation" as an excuse appears particularly ridiculous
+R21	CauseEffect Arg1:T44 Arg2:T43	
+T45	Cause 2628 2675	cannot understand why the "China threat" theory
+T46	Effect 2783 2821	cannot possibly pose any direct threat
+R22	CauseEffect Arg1:T45 Arg2:T46	
+T47	Cause 12617 12649	freedom of navigation activities
+T48	Effect 12802 12825	unpredictable accidents
+T49	Cause 12412 12467	rising trust deficit in the field of strategic security
+T50	Effect 12517 12571	increase the possibility of confrontation and conflict
+R23	CauseEffect Arg1:T49 Arg2:T50	
+T51	Cause 12320 12350	concerted efforts of countries
+T52	Effect 12187 12230	tensions arising from the maritime disputes
+R25	CauseEffect Arg1:T51 Arg2:T52	
+T53	Cause 11835 11882	Beijing's refusal to accept the tribunal ruling
+T54	Effect 11774 11814	maritime disputes were unlikely to start
+R24	CauseEffect Arg1:T53 Arg2:T54	
+T55	Effect 11543 11570	bilateral ties deteriorated
+T56	Cause 11591 11627	Philippine government's provocations
+R26	CauseEffect Arg1:T56 Arg2:T55	
+T57	Cause 11379 11390	unwise wars
+T58	Effect 11433 11474	more money and a plan to rebuild US force
+R27	CauseEffect Arg1:T57 Arg2:T58	
+T59	Cause 11320 11334	terror attacks
+T60	Effect 11289 11312	losing their attraction
+R28	CauseEffect Arg1:T59 Arg2:T60	
+T62	Cause 11239 11253	Chinese origin
+T61	Effect 11170 11193	relations are resilient
+R29	CauseEffect Arg1:T62 Arg2:T61	
+T63	Cause 11113 11135	friction among nations
+T64	Effect 11071 11105	East Asia integration is weakening
+T65	Cause 11053 11066	Crimea crisis
+T66	Effect 10992 11045	relations between Washington and Moscow have worsened
+R30	CauseEffect Arg1:T65 Arg2:T66	
+T67	Cause 10870 10919	US complaints about its trade deficits with China
+T68	Effect 10820 10858	showdown between the top two economies
+R31	CauseEffect Arg1:T67 Arg2:T68	
+T69	Cause 10789 10806	nuclear sanctions
+T70	Effect 10756 10781	co-operation saw downfall
+R32	CauseEffect Arg1:T69 Arg2:T70	
+T71	Cause 10628 10641	joint efforts
+T72	Effect 10590 10600	stabilized
+R33	CauseEffect Arg1:T71 Arg2:T72	
+T73	Cause 10395 10433	lack of access to reliable information
+T74	Effect 10345 10383	devastating effects of Typhoon Yolanda
+R34	CauseEffect Arg1:T73 Arg2:T74	
+T75	Cause 3022 3046	not yet a cohesive force
+T76	Effect 2919 2966	general naval strength is not that satisfactory
+R35	CauseEffect Arg1:T75 Arg2:T76	
+T77	Cause 3182 3207	disputes over sovereignty
+T78	Effect 3086 3108	faces maritime threats
+R36	CauseEffect Arg1:T77 Arg2:T78	
+T79	Cause 3351 3374	national defense policy
+T80	Effect 3302 3316	poses a threat
+R37	CauseEffect Arg1:T79 Arg2:T80	
+T81	Cause 3551 3577	bilateral relations soured
+T82	Effect 3429 3447	military exchanges
+T83	Cause 3712 3750	refusal to face up squarely to history
+T84	Effect 3601 3617	worsen relations
+R38	CauseEffect Arg1:T83 Arg2:T84	
+T85	Cause 4102 4135	destabilize the strategic balance
+T86	Effect 4069 4085	strongly opposes
+R39	CauseEffect Arg1:T85 Arg2:T86	
+T87	Cause 4292 4313	never caused any harm
+T88	Effect 4223 4268	take caution against China's defense measures
+R40	CauseEffect Arg1:T87 Arg2:T88	
+T89	Cause 4421 4445	Trump's unpredictability
+T90	Effect 4376 4409	follow up on Tillerson's proposal
+R41	CauseEffect Arg1:T89 Arg2:T90	
+T91	Cause 10275 10303	flaring of regional tensions
+T92	Effect 10217 10255	Bilateral relations suffered a setback
+R42	CauseEffect Arg1:T91 Arg2:T92	
+T93	Cause 9818 9846	Washington's miscalculations
+T94	Effect 9734 9765	provocative actions US warships
+R43	CauseEffect Arg1:T93 Arg2:T94	
+T95	Cause 10038 10044	Brexit
+T96	Effect 9937 10006	regional economic integration While Europe is faced with difficulties
+R44	CauseEffect Arg1:T95 Arg2:T96	
+T97	Cause 9682 9716	border standoff at Donglang Doklam
+T98	Effect 9636 9671	warming up of Sino-Indian relations
+R45	CauseEffect Arg1:T97 Arg2:T98	
+T99	Cause 9456 9486	Trump administration's threats
+T100	Effect 9424 9445	protect its territory
+R46	CauseEffect Arg1:T99 Arg2:T100	
+T101	Cause 9366 9384	arbitration ruling
+T102	Effect 9322 9343	issued two statements
+R47	CauseEffect Arg1:T101 Arg2:T102	
+T103	Cause 4576 4609	suspected breach of Hong Kong law
+T104	Effect 4511 4545	vehicles were impounded by customs
+R48	CauseEffect Arg1:T103 Arg2:T104	
+T105	Cause 4716 4763	negative impact the US' strategic pivot to Asia
+T106	Effect 4637 4679	distanced his country from the US alliance
+R49	CauseEffect Arg1:T105 Arg2:T106	
+T107	Cause 4862 4897	lack of resources and opportunities
+T108	Effect 4829 4846	suffer in poverty
+R50	CauseEffect Arg1:T107 Arg2:T108	
+T109	Cause 5040 5081	rebalancing" to the Asia-Pacific strategy
+T110	Effect 4917 4958	Japan-ROK ties have indeed been improving
+R51	CauseEffect Arg1:T109 Arg2:T110	
+T111	Cause 5448 5458	deterrence
+T112	Effect 5361 5393	safeguarding China's sovereignty
+R52	CauseEffect Arg1:T111 Arg2:T112	
+T113	Cause 5592 5627	Trans-Pacific Partnership Agreement
+T114	Effect 5510 5523	policy agenda
+R53	CauseEffect Arg1:T113 Arg2:T114	
+T115	Cause 5786 5803	maritime disputes
+T116	Effect 5696 5730	hypocrisy of the US and its allies
+R54	CauseEffect Arg1:T115 Arg2:T116	
+T117	Cause 5973 6013	China's longstanding territorial dispute
+T118	Effect 5851 5886	anti-China alliance could be forged
+R55	CauseEffect Arg1:T117 Arg2:T118	
+T119	Cause 6263 6283	harm bilateral ties.
+T120	Effect 6182 6221	tensions between Beijing and Washington
+R56	CauseEffect Arg1:T119 Arg2:T120	
+T121	Cause 6443 6488	revoke Hong Kong's special trading privileges
+T122	Effect 6287 6312	Beijing has warned the US
+R57	CauseEffect Arg1:T121 Arg2:T122	
+T123	Effect 6540 6547	angered
+T124	Cause 6658 6698	surrounding waters would be administered
+R58	CauseEffect Arg1:T124 Arg2:T123	
+T126	Effect 6816 6837	seize Philippine seas
+T125	Cause 6849 6880	wanted the fish and sea turtles
+R59	CauseEffect Arg1:T125 Arg2:T126	
+T127	Cause 7153 7163	criticized
+T128	Effect 7071 7108	US-Australia relations becoming worse
+R60	CauseEffect Arg1:T127 Arg2:T128	
+T129	Cause 7407 7427	ignored a US warning
+T130	Effect 7335 7357	expressed deep concern
+R61	CauseEffect Arg1:T129 Arg2:T130	
+T131	Cause 7834 7868	approved the framework of the COC.
+T132	Effect 7740 7761	step up consultations
+R62	CauseEffect Arg1:T131 Arg2:T132	
+T133	Effect 7955 7977	seek joint exploration
+T134	Cause 7904 7926	develop bilateral ties
+T135	Cause 8097 8107	guaranteed
+T136	Effect 8045 8068	ship was later released
+R63	CauseEffect Arg1:T135 Arg2:T136	
+R64	CauseEffect Arg1:T21 Arg2:T22	
+R65	CauseEffect Arg1:T81 Arg2:T82	
+T137	Cause 9201 9225	refused China’s proposal
+T138	Effect 9122 9166	urged Manila to "walk out of its wrong path"
+R66	CauseEffect Arg1:T137 Arg2:T138	
+T139	Cause 9075 9105	improved China-Philippine ties
+T140	Effect 8879 8900	manage maritime issue
+R67	CauseEffect Arg1:T139 Arg2:T140	
+T141	Cause 8286 8320	losing the First Sino-Japanese War
+T142	Effect 8246 8279	humiliating Treaty of Shimonoseki
+R68	CauseEffect Arg1:T141 Arg2:T142	
+T143	Cause 8458 8463	visit
+T144	Effect 8346 8412	unilateral arbitration case against China, was peacefully resolved
+R69	CauseEffect Arg1:T143 Arg2:T144	
+T145	Cause 8539 8555	Gulf-Pearl Chain
+T146	Effect 8486 8506	multilateral success
+R70	CauseEffect Arg1:T145 Arg2:T146	
+

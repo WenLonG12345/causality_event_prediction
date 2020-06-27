@@ -1,63 +1,63 @@
-	cause	effect
-0	['lack', 'communication', 'translink', 'event', 'organizers']	['disruption', 'bus', 'service', 'Gold', 'Coast']
-1	['Philippines', 'won', 'arbitration', 'case', 'China', 'disputed', 'South', 'China', 'Sea']	['Philippine', 'Rodrigo', 'Duterte', 'called', 'cabinet', 'meeting']
-2	['China', 'island', 'reclamation', 'following', 'claim', 'cent', 'sea', 'dash', 'line']	['South', 'China', 'Sea', 'dispute', 'security', 'issues', 'East', 'Asia', 'tensions', 'boiling']
-3	['know', 'ploy', 'Chinese']	['countries']
-4	['law', 'not', 'respected']	['tension', 'South', 'China', 'Sea']
-5	['security', 'issue', 'middle', 'Southeast', 'Asia']	['South', 'China', 'Sea', 'dispute', 'issue', 'affects', 'ASEAN', 'countries', 'affects', 'whole', 'ASEAN']
-6	['lack', 'enforcement', 'mechanism']	['Hague', 'award', 'will', 'observed', 'parties', 'China']
-7	['countries', 'expanding', 'defense', 'budgets', 'attaching', 'increasing', 'importance', 'security']	['security', 'governance', 'suffered', 'setback']
-8	['China', 'growing', 'influence', 'region', 'Japan', 'ramping', 'efforts', 'oppose', 'China', 'issues']	['ties', 'China', 'result', 'dispute', 'concerns', 'having', 'lost', 'status']
-9	['coordinator', 'China', 'ASEAN', 'relations', 'will', 'assume', 'presidency', 'ASEAN', 'year']	['Singapore', 'holds', 'significance', 'diplomacy']
-10	['perceives', 'called', 'freedom', 'navigation', 'operations', 'US', 'strategy', 'check', 'China', 'influence', 'region']	['Donald', 'Trump', 'administration', 'continuing', 'practice']
-11	['attempted', 'stir', 'tension', 'China', 'Philippines']	['persons', 'Philippines', 'laid', 'accusations', 'China']
-12	['greed', 'capital', 'resources']	['Wars', 'occur']
-13	['could', 'throw', 'China', 'US', 'relations', 'balance', 'squander', 'results', 'achieved', 'advancing', 'cooperation']	['Trump', 'discard', 'strategy', 'stirring', 'confrontation', 'South', 'China', 'Sea']
-14	['party', 'ability', 'order', 'state', 'pay', 'sums', 'money', 'disconcerting', 'nations']	['nations', 'participate', 'ISDS', 'framework']
-15	['countries', 'region', 'agreed', 'resolve', 'disputes', 'China', 'dialogue']	['Using', 'freedom', 'navigation', 'operation', 'excuse', 'appears']
-16	['thousands', 'miles', 'Australia', 'China', 'can', 'not', 'pose', 'threat', 'country']	['can', 'not', 'understand', 'China', 'threat', 'theory', 'hyped', 'time', 'time', 'Australia']
-17	['aircraft', 'submarine', 'vessels', 'not', 'force']	['compared', 'standards', 'countries', 'navies', 'China', 'strength', 'not']
-18	['disputes', 'sovereignty', 'jurisdiction', 'islands', 'reefs', 'resources', 'sea', 'lanes']	['should', 'realize', 'China', 'faces', 'maritime', 'threats', 'contradictions', 'frictions', 'threat', 'war']
-19	['defense', 'policy', 'strategy', 'not', 'power']	['country', 'poses', 'threat', 'countries']
-20	['cut', 'relations', 'soured']	['past', 'exchanges', 'aspect', 'China', 'US', 'relations']
-21	['Shinzo', 'Abe', 'administration', 'refusal', 'face', 'history', 'actions']	['will', 'worsen', 'relations', 'Beijing', 'Tokyo']
-22	['will', 'destabilize', 'balance', 'East', 'Asia', 'favor', 'United', 'States']	['Protests', 'organized', 'Lotte', 'Group', 'business', 'conglomerate', 'headquartered', 'South', 'Korea', 'accepted', 'plot', 'land', 'exchange', 'Skyhill', 'Golf', 'Course', 'Seongju', 'US', 'Terminal', 'High', 'Altitude', 'Area', 'Defense', 'system', 'will', 'deployed', 'move', 'China', 'opposes']
-23	['nation', 'caused', 'harm', 'others']	['need', 'countries', 'take', 'caution', 'China', 'defense', 'measures']
-24	['Trump', 'unpredictability', 'opinions', 'Cabinet']	['remained', 'seen', 'Washington', 'would', 'follow', 'Tillerson', 'proposal']
-25	['suspected', 'breach', 'Hong', 'Kong', 'law']	['vehicles', 'impounded', 'customs', 'Nov']
-26	['impact', 'US', 'pivot', 'Asia']	['reason', 'Duterte', 'distanced', 'country', 'US', 'alliance']
-27	['lack', 'resources', 'opportunities', 'country']	['Filipinos', 'suffer', 'poverty']
-28	['Obama', 'administration', 'rebalancing', 'Asia', 'Pacific', 'strategy', 'deployment', 'THAAD', 'makes', 'feel']	['Japan', 'ROK', 'ties', 'improving', 'not', 'deepening', 'trust']
-29	['want', 'Washington', 'allies', 'Asia', 'believe', 'US', 'accepted', 'China', 'equal']	['Obama', 'beating', 'concept']
-30	['military', 'deterrence']	['navy', 'air', 'force', 'safeguarding', 'China', 'sovereignty', 'South', 'China', 'Sea']
-31	['Trans', '-', 'Pacific', 'Partnership', 'Agreement', 'aimed', 'furthering', 'interests']	['Trump', 'administration', 'may', 'put', 'policy', 'agenda', 'revising', 'Trans', '-', 'Pacific', 'Partnership', 'Agreement']
-32	['helped', 'create', 'provoked', 'disputes', 'waters']	['lays', 'bare', 'hypocrisy', 'US', 'allies']
-33	['China', 'dispute', 'India', 'spat', 'Japan', 'Diaoyu', 'Islands', 'East', 'China', 'Sea']	['hope', 'China', 'alliance', 'could', 'forged', 'world', 'nation', 'economy']
-34	['can', 'harm', 'ties']	['months', 'Obama', 'administration', 'should', 'not', 'marked', 'tensions', 'Beijing', 'Washington', 'South', 'China', 'Sea']
-35	['White', 'House', 'advisor', 'warned', 'Washington', 'might', 'revoke', 'Hong', 'Kong', 'trading', 'privileges', 'China', 'enacts', 'security', 'law']	['Beijing', 'warned', 'US', 'will', 'take', 'measure', 'protect', 'interests']
-36	['announcing', 'weekend', 'Paracel', 'Spratly', 'islands', 'Macclesfield', 'Bank', 'surrounding', 'waters', 'would', 'administered', 'districts', 'Sansha', 'city', 'China', 'created', 'Woody', 'Island']	['China', 'angered', 'Vietnam']
-37	['wanted', 'fish', 'sea', 'turtles']	['Beijing', 'trying', 'seize', 'seas']
-38	['US', 'President', 'Donald', 'Trump', 'criticized', 'Prime', 'Minister', 'Malcolm', 'Turnbull', 'phone', 'refugee', 'resettlement', 'agreement', 'US', 'president', 'Barack', 'Obama', 'made', 'countries']	['US', 'Australia', 'relations', 'becoming', 'February']
-39	['Prime', 'Minister', 'Tony', 'Abbott', 'ignored', 'US', 'warning', 'March', 'joined', 'Asian', 'Infrastructure', 'Investment', 'Bank']	['expressed', 'concern']
-40	['Saudi', 'Arabia', 'execution', 'cleric', 'sparked', 'attacks', 'posts', 'Iran', 'move', 'show', 'solidarity', 'kingdom']	['Qatar', 'pulled', 'ambassador', 'year']
-41	['ASEAN', 'nations', 'approved', 'framework', 'COC']	['China', 'proposed', 'step', 'vision', 'step', 'consultations', 'Code', 'Conduct', 'COC', 'South', 'China', 'Sea']
-42	['meeting', 'Wang', 'develop', 'ties']	['Beijing', 'Manila', 'seek', 'exploration', 'resources', 'benefit', 'people', 'nations']
-43	['government', 'guaranteed', 'missiles', 'would', 'used', 'Yemen', 'would', 'not', 'buy']	['ship', 'released']
-44	['losing', 'Japanese', 'War']	['China', 'forced', 'cede', 'Taiwan', 'Japan', 'Treaty', 'Shimonoseki']
-45	['President', 'Rodrigo', 'Duterte', 'visit', 'China']	['Philippines', 'arbitration', 'case', 'China', 'resolved']
-46	['creation', 'Gulf', 'Pearl', 'Chain']	['success', 'will', 'come']
-47	['aimed', 'furthering', 'interests']	['Trump', 'administration', 'may', 'put', 'Trans', '-', 'Pacific', 'Partnership', 'Agreement', 'policy', 'agenda']
-48	['state', 'visit', 'October', 'improved', 'China', 'ties']	['President', 'Rodrigo', 'Duterte', 'expected', 'visit', 'China', 'attend', 'summit']
-49	['diplomat', 'refused', 'China', 'proposal', 'put', 'ruling', 'arbitration', 'case', 'concerning', 'South', 'China', 'Sea']	['Beijing', 'urged', 'Manila', 'walk', 'path']
-50	['arbitration', 'ruling', 'announced']	['Beijing', 'issued', 'statements']
-51	['Trump', 'administration', 'threats', 'maritime', 'disputes', 'China']	['Beijing', 'says', 'will', 'protect', 'territory']
-52	['border', 'standoff', 'Donglang', 'Doklam', 'year']	['Central', 'China', 'Hubei', 'province', 'signaled', 'warming', 'relations']
-53	['Washington', 'miscalculations', 'China', 'done', 'attempt', 'defend', 'waters']	['actions', 'US', 'warships', 'taken', 'South', 'China', 'Sea']
-54	['flaring', 'tensions', 'South', 'China', 'Sea', 'disputes']	['relations', 'suffered', 'setback']
-55	['efforts', 'China', 'countries']	['situation', 'South', 'China', 'Sea', 'stabilized', 'cooled']
-56	['sanctions']	['military', 'defence', 'relations', 'China', 'Iran', 'dates', 'co', '-', 'operation', 'saw', 'downfall']
-57	['US', 'complaints', 'trade', 'deficits', 'China']	['showdown', 'economies']
-58	['crisis']	['willingness', 'reset', 'US', 'relations', 'Russia', 'resulted', 'relations', 'Washington', 'Moscow', 'worsened']
-59	['friction', 'nations', 'region']	['Asia', 'integration', 'weakening']
-60	['majority', 'Singaporeans', 'origin']	['China', 'Singapore', 'relations']
-61	['terror', 'attacks', 'South', 'China', 'Sea', 'disputes']	['France', 'Philippines', 'losing', 'attraction']
+cause	effect
+lack communication translink event organizers 	disruption bus service 
+won arbitration case disputed 	called cabinet meeting 
+island reclamation following claim cent sea dash line 	dispute security issues tensions boiling 
+know ploy 	countries 
+not respected 	tension 
+security issue middle 	dispute issue affects countries affects whole 
+lack enforcement mechanism 	award will observed parties 
+countries expanding defense budgets attaching increasing importance security 	security governance suffered setback 
+growing influence region ramping efforts oppose issues 	ties result dispute concerns having lost status 
+coordinator relations will assume presidency year 	holds significance diplomacy 
+perceives called freedom navigation operations strategy check influence region 	administration continuing practice 
+attempted stir tension 	persons laid accusations 
+greed capital resources 	wars occur 
+could throw relations balance squander results achieved advancing cooperation 	trump discard strategy stirring confrontation 
+party ability order state pay sums money disconcerting nations 	nations participate framework 
+countries region agreed resolve disputes dialogue 	using freedom navigation operation excuse appears 
+thousands miles can not pose threat country 	can not understand threat theory hyped time time 
+aircraft submarine vessels not force 	compared standards countries navies strength not 
+disputes sovereignty jurisdiction islands reefs resources sea lanes 	should realize faces maritime threats contradictions frictions threat war 
+defense policy strategy not power 	country poses threat countries 
+cut relations soured 	past exchanges aspect relations 
+administration refusal face history actions 	will worsen relations 
+will destabilize balance favor 	protests organized business conglomerate headquartered accepted plot land exchange course system will deployed move opposes 
+nation caused harm others 	need countries take caution defense measures 
+unpredictability opinions 	remained seen would follow proposal 
+suspected breach law 	vehicles impounded customs 
+impact pivot 	reason distanced country alliance 
+lack resources opportunities country 	suffer poverty 
+administration rebalancing strategy deployment makes feel 	ties improving not deepening trust 
+want allies believe accepted equal 	beating concept 
+military deterrence 	navy air force safeguarding sovereignty 
+aimed furthering interests 	administration may put policy agenda revising 
+helped create provoked disputes waters 	lays bare hypocrisy allies 
+dispute spat 	hope alliance could forged world nation economy 
+can harm ties 	months administration should not marked tensions 
+advisor warned might revoke trading privileges enacts security law 	warned will take measure protect interests 
+announcing weekend islands surrounding waters would administered districts city created 	angered 
+wanted fish sea turtles 	trying seize seas 
+criticized phone refugee resettlement agreement president made countries 	relations becoming 
+ignored warning joined 	expressed concern 
+execution cleric sparked attacks posts move show solidarity kingdom 	pulled ambassador year 
+nations approved framework 	proposed step vision step consultations 
+meeting develop ties 	seek exploration resources benefit people nations 
+government guaranteed missiles would used would not buy 	ship released 
+losing 	forced cede 
+visit 	arbitration case resolved 
+creation 	success will come 
+aimed furthering interests 	administration may put policy agenda 
+state visit improved ties 	expected visit attend summit 
+diplomat refused proposal put ruling arbitration case concerning 	urged walk path 
+arbitration ruling announced 	issued statements 
+administration threats maritime disputes 	says will protect territory 
+border standoff year 	province signaled warming relations 
+miscalculations done attempt defend waters 	actions warships taken 
+flaring tensions disputes 	relations suffered setback 
+efforts countries 	situation stabilized cooled 
+sanctions 	military defence relations dates co - operation saw downfall 
+complaints trade deficits 	showdown economies 
+crisis 	willingness reset relations resulted relations worsened 
+friction nations region 	integration weakening 
+majority origin 	relations 
+terror attacks disputes 	losing attraction 

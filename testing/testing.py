@@ -18,14 +18,45 @@
 # displacy.serve(doc, style='dep')
 
 
-from stanfordcorenlp import StanfordCoreNLP
+# from stanfordcorenlp import StanfordCoreNLP
 
-nlp = StanfordCoreNLP(r'D:\Downloads\stanford-corenlp-latest\stanford-corenlp-4.0.0')
+# nlp = StanfordCoreNLP(r'D:\Downloads\stanford-corenlp-latest\stanford-corenlp-4.0.0')
 
-sentence = 'lack of communication between translink and event organizers'
-# sentence = 'a disruption in bus service in gold coast'
+# sentence = 'lack of communication between translink and event organizers'
+# # sentence = 'a disruption in bus service in gold coast'
 
-dependency_parse = nlp.dependency_parse(sentence)
-print(dependency_parse)
+# dependency_parse = nlp.dependency_parse(sentence)
+# print(dependency_parse)
 
-nlp.close() 
+# nlp.close() 
+
+# cause_data = ['lack communication translink event organizers ', 'philippines won arbitration case china disputed south china sea ', 'china island reclamation following claim cent sea dash line ']
+# effect_data = ['disruption bus service gold coast ', 'philippine rodrigo duterte called cabinet meeting ', 'south china sea dispute security issues east asia tensions boiling ']
+
+# tokenized_cause = []
+# tokenized_effect = []
+
+# for cause in cause_data:
+#     tokenized_cause.append(cause.split())
+
+# for effect in effect_data:
+#     tokenized_effect.append(effect.split())
+
+# bag = []
+
+# for index in range(len(tokenized_cause)):
+#     bag = []
+#     for c_word in tokenized_cause[index]:
+#         for e_word in tokenized_effect[index]:
+#             bag.append((c_word, e_word))
+    
+#     print(bag)
+
+# def max(data_list):
+#     for index, value in data_list:
+#         if value > max_value:
+#             max_value = value
+#             max_index = index
+    
+#     return max_value, max_index
+
